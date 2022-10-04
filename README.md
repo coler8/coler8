@@ -8,11 +8,9 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Frameworks:
 
-* [![React][React.js]][React-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![React][React.js]][React-url] [![Angular][Angular.io]][Angular-url]
 
 
 
@@ -20,6 +18,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [React-url]: https://reactjs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+
+
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coler8&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
