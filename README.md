@@ -51,6 +51,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
+<br/>  
 
 </td></tr></table>  
 
@@ -58,10 +59,15 @@
 <br/>  
 
 ## 📝 Proyectos realizados
+[<img alt="alt_text" width="100px" heigth="100px" src="https://vuyapp-proyecto.web.app/assets/imagenes/vuy.png" />](https://vuyapp-proyecto.web.app/)
+&nbsp;
+&nbsp;
+[<img alt="alt_text" width="100px" heigth="100px" src="https://papelpandemia.firebaseapp.com/assets/imgs/icon.png" />](https://papelpandemia.firebaseapp.com/)
+&nbsp;
+&nbsp;
+[<img alt="alt_text" width="100px" heigth="100px" src="https://fision.web.app/assets/images/logo.png" />](https://fision.firebaseapp.com/)
 
-- [Vuy!](https://vuyapp-proyecto.web.app//)
-- [Papelpandemia](https://papelpandemia.firebaseapp.com/)
-- [Fision](https://fision.firebaseapp.com/)
+
 
 <br/>  
 
