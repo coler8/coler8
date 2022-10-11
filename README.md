@@ -59,13 +59,16 @@
 <br/>  
 
 ## 📝 Proyectos realizados
-[<img alt="alt_text" width="100px" heigth="100px" src="https://vuyapp-proyecto.web.app/assets/imagenes/vuy.png" />](https://vuyapp-proyecto.web.app/)
+
+<div align="center">  
+<a href="https://vuyapp-proyecto.web.app/" target="_blank"><img src="https://vuyapp-proyecto.web.app/assets/imagenes/vuy.png" alt="vuyapp" width="100px" heigth="100px" /></a>  
 &nbsp;
 &nbsp;
-[<img alt="alt_text" width="100px" heigth="100px" src="https://papelpandemia.firebaseapp.com/assets/imgs/icon.png" />](https://papelpandemia.firebaseapp.com/)
+<a href="https://papelpandemia.firebaseapp.com/" target="_blank"><img width="100px" heigth="100px" src="https://papelpandemia.firebaseapp.com/assets/imgs/icon.png" alt="papelpandemia"  /></a>  
 &nbsp;
 &nbsp;
-[<img alt="alt_text" width="100px" heigth="100px" src="https://fision.web.app/assets/images/logo.png" />](https://fision.firebaseapp.com/)
+<a href="https://fision.firebaseapp.com/" target="_blank"><img width="100px" heigth="100px" src="https://fision.web.app/assets/images/logo.png" alt="fision" /></a>  
+</div>
 
 
 
