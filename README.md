@@ -61,7 +61,7 @@
 ## 📝 Proyectos realizados
 
 <div align="center">  
-<a href="https://vuyapp-proyecto.web.app/" target="_blank"><img src="https://vuyapp-proyecto.web.app/assets/imagenes/vuy.png" alt="vuyapp" width="100px" heigth="100px" /></a>  
+<a href="https://vuyapp-proyecto.firebaseapp.com/" target="_blank"><img src="https://vuyapp-proyecto.web.app/assets/imagenes/vuy.png" alt="vuyapp" width="100px" heigth="100px" /></a>  
 &nbsp;
 &nbsp;
 <a href="https://papelpandemia.firebaseapp.com/" target="_blank"><img width="100px" heigth="100px" src="https://papelpandemia.firebaseapp.com/assets/imgs/icon.png" alt="papelpandemia"  /></a>  
@@ -98,10 +98,6 @@
 <br/>  
 
 
-
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <div >
             <a href="https://www.buymeacoffee.com/papelpandemia" target="_blank" style="display: inline-block;">
