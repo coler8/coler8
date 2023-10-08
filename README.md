@@ -5,7 +5,7 @@
    <h3 align="center">- 👋 Hi, I’m @coler8</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador FrontEnd</strong> con 4 años experiencia!</p>
+<p align="center">No dejes para mañana lo que puedas hacer hoy.</p>
 
 ## My Skill Set  
 <table style='border:unset'><tr><td valign="top" width="33%">
