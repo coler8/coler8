@@ -61,6 +61,9 @@
 ## 📝 Proyectos realizados
 
 <div align="center">  
+<a href="https://lafrasedeldia.firebaseapp.com/home" target="_blank"><img src="https://img001.prntscr.com/file/img001/V3NLRoGgRm29xokvN59eZw.png" alt="frasedei" width="100px" heigth="100px" /></a>  
+&nbsp;
+&nbsp;
 <a href="https://vuyapp-proyecto.firebaseapp.com/" target="_blank"><img src="https://vuyapp-proyecto.web.app/assets/imagenes/vuy.png" alt="vuyapp" width="100px" heigth="100px" /></a>  
 &nbsp;
 &nbsp;
